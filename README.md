@@ -1,14 +1,17 @@
 # tuya-pm2.5-dev
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.
 For more information, please check Tuya Developer Website.
+
 一、方案标题
 ======================================================================================================
 室内PM2.5检测器
+
 二、方案应用场景
 ======================================================================================================
 方案用于检测空气环境中的PM2.5、温度、湿度等参数，基本反映空气质量指标。
 通过tuyaIOT上传检测测量数据到云平台，并能通过APP控制室内的温湿度条件和排风控制。
 此方案可用于楼宇暖通、智能家居、学校 机场车站等场所。
+
 
 三、方案说明
 ======================================================================================================
